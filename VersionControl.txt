@@ -1,1 +1,1 @@
-1.4 | 2021/11/11 - [Bug Fix] XPath for 'textinputfield' has been changed
+1.4.1 | 2021/11/11 - [Bug Fix] Messages were not sent after XPath has been updated
