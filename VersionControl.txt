@@ -1,1 +1,2 @@
-1.5 | 2021/11/11 - [Bug Fix] Messages were not sent after XPath has been updated
+1.6 | 2022/05/22 - [Update] Change XPath for SearchInputBox after WebWhatsApp update
+1.5 | 2021/11/11 - [Update] Messages were not sent after XPath has been updated
