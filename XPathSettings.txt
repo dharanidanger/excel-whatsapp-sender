@@ -1,27 +1,35 @@
-<table>
-  <tr>
-    <td>xPathSearchInputField</td>
-    <td>//*[@id='side']/div[1]/div/div/div[2]/div/div[1]</td>
-  </tr>
-  <tr>
-    <td>xPathNoContactFound</td>
-    <td>//*[@id='pane-side']/div[1]/div/span</td>
-  </tr>
-  <tr>
-    <td>xPathInvalidPhoneNumber</td>
-    <td>//*[@id='app']/div/span[2]/div/span/div/div/div/div/div/div[2]/div/div/div</td>
-  </tr>
-  <tr>
-    <td>AttachmentButton</td>
-    <td>//div[@aria-label='Attach']</td>
-  </tr>
-  <tr>
-    <td>AttachmentImage</td>
-    <td>//span[@data-icon='attach-image']</td>
-  </tr>
-  <tr>
-    <td>AttachmentDocument</td>
-    <td>//span[@data-icon='attach-document']</td>
-  </tr>
-</table>
-
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>XPath Settings</title>
+</head>
+<body>
+	<table>
+		<tr>
+			<td>xPathSearchInputField</td>
+			<td>//*[@id='side']/div[1]/div/div/div[2]/div/div[1]</td>
+		</tr>
+		<tr>
+			<td>xPathNoContactFound</td>
+			<td>//*[@id='pane-side']/div[1]/div/span</td>
+		</tr>
+		<tr>
+			<td>xPathInvalidPhoneNumber</td>
+			<td>//*[@id='app']/div/span[2]/div/span/div/div/div/div/div/div[2]/div/div/div</td>
+		</tr>
+		<tr>
+			<td>AttachmentButton</td>
+			<td>//div[@aria-label='Attach']</td>
+		</tr>
+		<tr>
+			<td>AttachmentImage</td>
+			<td>//span[@data-icon='attach-image']</td>
+		</tr>
+		<tr>
+			<td>AttachmentDocument</td>
+			<td>//span[@data-icon='attach-document']</td>
+		</tr>
+	</table>
+</body>
+</html>
