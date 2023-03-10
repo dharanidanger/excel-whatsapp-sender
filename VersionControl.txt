@@ -1,3 +1,4 @@
+1.8 | 2023/03/10 - [BUg Fix] XPath for 'SearchInputField' has been changed
 1.7 | 2023/01/23 - [Update] Add FAQ link, Change donation form
 1.6 | 2022/05/22 - [Update] Change XPath for SearchInputBox after WebWhatsApp update
 1.5 | 2021/11/11 - [Update] Messages were not sent after XPath has been updated
